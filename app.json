@@ -1,8 +1,6 @@
 {
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "https://cdn.rawgit.com/heroku/node-js-getting-started/master/public/node.svg",
-  "keywords": ["node", "express", "heroku"],
-  "image": "heroku/nodejs"
+  "name": "Oh, for Fox sake...",
+  "description": "A quick comparison on presidential headlines, 8 years ago vs. today",
+  "repository": "https://github.com/jdk2pq/ohforfoxsake",
+  "keywords": ["fox", "fox news", "obama", "trump", "news", "forfoxsake", "liberal", "conservative", "mainstream media"]
 }
